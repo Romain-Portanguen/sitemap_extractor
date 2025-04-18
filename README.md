@@ -1,6 +1,6 @@
 # 🚀 Sitemap Extractor
 
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![Last Commit](https://img.shields.io/github/last-commit/Romain-Portanguen/sitemap_extractor?color=blue) ![Open Issues](https://img.shields.io/github/issues/Romain-Portanguen/sitemap_extractor) ![Open PRs](https://img.shields.io/github/issues-pr/Romain-Portanguen/sitemap_extractor)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![Last Commit](https://img.shields.io/github/last-commit/Romain-Portanguen/sitemap_extractor?color=blue&label=last%20commit) ![Open Issues](https://img.shields.io/github/issues/Romain-Portanguen/sitemap_extractor?color=blue&label=issues) ![Open PRs](https://img.shields.io/github/issues-pr/Romain-Portanguen/sitemap_extractor?color=blue&label=PRs)
 
 A robust Python CLI tool to extract URLs from XML sitemaps (including sitemap indexes) — local or remote — and export them in various formats. Handles most anti-bot protections, with an interactive fallback for manual extraction if needed.
 
