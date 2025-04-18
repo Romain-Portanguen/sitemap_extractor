@@ -1,0 +1,7 @@
+typer[all]
+requests
+pandas
+pyyaml
+questionary
+openpyxl
+playwright 
